@@ -1,4 +1,4 @@
- <div background-color="white">
+ <div>
   <h2 align="center">Hi there 👋 I am "Abu Said Md. Rezoun"</h2>
   <h3 align="center">🚀 Fullstack Developer | MERN Stack | Machine Learning Enthusiast | Competitive Programmer  🚀</h3>
 <hr>
@@ -14,6 +14,7 @@
   </a>
 </p>
 <br>
+ 
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Javascript | C | C++ | ES6 | TypeScript
