@@ -1,8 +1,5 @@
 ### Hi there 👋 I am Abu Said Md. Rezoun
 
-<!--
-**asrezoun/asrezoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h3 align="center">🚀 Fullstack Developer | MERN Stack | Machine Learning Enthusiast | Competitive Programmer  🚀</h3>
 <hr>
 <p>
