@@ -1,6 +1,5 @@
-### Hi there 👋 I am Abu Said Md. Rezoun
-
-<div background-color="white">
+ <div background-color="white">
+  <h2 align="center">Hi there 👋 I am "Abu Said Md. Rezoun"</h2>
   <h3 align="center">🚀 Fullstack Developer | MERN Stack | Machine Learning Enthusiast | Competitive Programmer  🚀</h3>
 <hr>
 <p align="center">
@@ -10,12 +9,18 @@
   <a href="mailto:abusaid.rezoun@gmail.com">
     <img align="left" alt="GMail" width="22px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
   </a>
-  <a href="https://codeforces.com/profile/Rezwan_Saeed">
-    <img align="left" color="white" alt="Codeforces Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/codeforces.svg" />
+  <a color="white" href="https://codeforces.com/profile/Rezwan_Saeed">
+    <img align="left"  alt="Codeforces Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/codeforces.svg" />
   </a>
 </p>
 <br>
-<div>
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Javascript | C | C++ | ES6 | TypeScript
+- 🌐 &nbsp; ReactJS | Node.js | ExpressJS | Material UI | HTML | CSS | Bootstrap 
+- 🛢 &nbsp; MySQL | MongoDB
+- 🔧 &nbsp; Git | Heroku | Firebase | Netlify | Chrome dev tool | Linux 
+  
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
@@ -26,11 +31,6 @@
   - 🤔 &nbsp; Interested in Machine learning and Deep learning.
   - ✍️ &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles.  
 </div> 
-</div>
-<h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Javascript | C | C++ | ES6 | TypeScript
-- 🌐 &nbsp; ReactJS | Node.js | ExpressJS | Material UI | HTML | CSS | Bootstrap 
-- 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Git | Heroku | Firebase | Netlify | Chrome dev tool | Linux 
+
  </div>
