@@ -2,7 +2,7 @@
   <h2 align="center">Hi there 👋 I am "Abu Said Md. Rezoun"</h2>
   <h3 align="center">🚀 Fullstack Developer | MERN Stack | Machine Learning Enthusiast | Competitive Programmer  🚀</h3>
 <hr>
-<p align="center">
+<h4 align="center">
   <a href="https://www.linkedin.com/in/abu-said-md-rezoun-941798148/">
     <img align="left" alt="Felipe's LinkdeIn" width="22px" src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-linkedin-circled-48.png" />
   </a>
@@ -14,7 +14,7 @@
   </a>
 </p>
 <br>
-<h3>🛠 Tech Stack</h3>
+<h4>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Javascript | C | C++ | ES6 | TypeScript
 - 🌐 &nbsp; ReactJS | Node.js | ExpressJS | Material UI | HTML | CSS | Bootstrap 
