@@ -13,17 +13,18 @@
     <img align="left"  alt="Codeforces Profile" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/codeforces.svg" />
   </a>
 </p>
- 
-<div align="left">
-  <h3>🛠 Tech Stack</h3>
+<br>
+ <hr>
 
+<h3>🛠 Tech Stack</h3>
 - 💻 &nbsp; Javascript | C | C++ | ES6 | TypeScript
 - 🌐 &nbsp; ReactJS | Node.js | ExpressJS | Material UI | HTML | CSS | Bootstrap 
 - 🛢 &nbsp; MySQL | MongoDB
 - 🔧 &nbsp; Git | Heroku | Firebase | Netlify | Chrome dev tool | Linux 
- </div>
+
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
+ 
   - 🎓 &nbsp; Computer Science and Engineering graduate.
   - 💼 &nbsp; I’m currently working on Full Stack Development projects.
   - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
