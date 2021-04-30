@@ -13,16 +13,16 @@
     <img align="left"  alt="Codeforces Profile" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/codeforces.svg" />
   </a>
 </p>
-<br>
  
-<h3>🛠 Tech Stack</h3>
+
+  
+<div align="left"> 
+ <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Javascript | C | C++ | ES6 | TypeScript
 - 🌐 &nbsp; ReactJS | Node.js | ExpressJS | Material UI | HTML | CSS | Bootstrap 
 - 🛢 &nbsp; MySQL | MongoDB
 - 🔧 &nbsp; Git | Heroku | Firebase | Netlify | Chrome dev tool | Linux 
-  
-<div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
   
