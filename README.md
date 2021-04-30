@@ -5,13 +5,13 @@
 <hr>
 <p>
   <a href="https://www.linkedin.com/in/abu-said-md-rezoun-941798148/">
-    <img align="left" alt="Felipe's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/linkedin.svg" />
+    <img align="left" alt="Felipe's LinkdeIn" width="22px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Linkedin.svg" />
   </a>
   <a href="mailto:abusaid.rezoun@gmail.com">
-    <img align="left" alt="GMail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/gmail.svg" />
+    <img align="left" alt="GMail" width="22px" src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Gmail.svg" />
   </a>
   <a href="https://codeforces.com/profile/Rezwan_Saeed">
-    <img align="left" alt="Codeforces Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/codeforces.svg" />
+    <img align="left" color="white" alt="Codeforces Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/codeforces.svg" />
   </a>
 </p>
 <br>
