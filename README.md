@@ -18,8 +18,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Javascript | C | C++ | ES6 | TypeScript
-- 🌐 &nbsp; ReactJS | Node.js | ExpressJS | Material UI | HTML | CSS | Bootstrap 
+- 💻 &nbsp; Javascript | C | C++ | ES6 
+- 🌐 &nbsp; ReactJS | Node.js | ExpressJS | TypeScript | Material UI | HTML | CSS | Bootstrap 
 - 🛢 &nbsp; MySQL | MongoDB
 - 🔧 &nbsp; Git | Heroku | Firebase | Netlify | Chrome dev tool | Linux 
 
