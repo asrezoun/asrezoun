@@ -14,7 +14,7 @@
   </a>
 </p>
 <br>
-<h4>🛠 Tech Stack</h3>
+<h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Javascript | C | C++ | ES6 | TypeScript
 - 🌐 &nbsp; ReactJS | Node.js | ExpressJS | Material UI | HTML | CSS | Bootstrap 
