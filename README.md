@@ -3,7 +3,7 @@
   <h3 align="center">🚀 Fullstack Developer | MERN Stack | Machine Learning Enthusiast | Competitive Programmer  🚀</h3>
 <hr>
 <p align="center">
-  <a href="https://www.linkedin.com/in/abu-said-md-rezoun-941798148/">
+  <a href="https://www.linkedin.com/in/asrezoun/">
     <img align="left" alt="Felipe's LinkdeIn"  src="https://github.com/sarthak77/sarthak77/blob/master/icons/icons8-linkedin-circled-48.png" />
   </a>
   <a href="mailto:abusaid.rezoun@gmail.com">
